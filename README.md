@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-wallet](screens/wallet)
 - [screen-waiting-list](screens/waiting-list)
 - [screen-waiting-list-message](screens/waiting-list-message)
+- [screen-voice-memos](screens/voice-memos)
 
 # Getting started: Frontend
 
