@@ -1305,6 +1305,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/payment-subscription@file:./screens/payment-subscription/":
+  version "1.0.0"
+
 "@screens/photo-filter@file:./screens/photo-filter":
   version "1.0.0"
 
