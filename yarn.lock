@@ -1233,7 +1233,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/record-memo@file:./screens/record-memo/":
+"@screens/rate-the-app@file:./screens/rate-the-app/":
+  version "1.0.0"
+
+"@screens/record-memo@file:./screens/record-memo":
   version "1.0.0"
 
 "@screens/review-list@file:./screens/review-list":
