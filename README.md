@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-settings](screens/settings)
 - [screen-search-listing](screens/search-listing)
 - [screen-review-list](screens/review-list)
+- [screen-recording-memo](screens/record-memo)
 
 # Getting started: Frontend
 
