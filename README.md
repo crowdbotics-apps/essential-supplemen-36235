@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-social-feed](screens/social-feed)
 - [django-social-auth](backend/modules/social-auth)
 - [screen-signup](screens/signup)
+- [screen-shopping-cart](screens/shopping-cart)
 
 # Getting started: Frontend
 
