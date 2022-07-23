@@ -1211,7 +1211,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/wallet@file:./screens/wallet/":
+"@screens/waiting-list@file:./screens/waiting-list/":
+  version "1.0.0"
+
+"@screens/wallet@file:./screens/wallet":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":
