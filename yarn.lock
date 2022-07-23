@@ -1238,7 +1238,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/post@file:./screens/post/":
+"@screens/photo-library@file:./screens/photo-library/":
+  version "1.0.0"
+
+"@screens/post@file:./screens/post":
   version "1.0.1"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
