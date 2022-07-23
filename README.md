@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signup](screens/signup)
 - [screen-shopping-cart](screens/shopping-cart)
 - [screen-shipping-address](screens/shipping-address)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 
