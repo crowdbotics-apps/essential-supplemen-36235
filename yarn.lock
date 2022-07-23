@@ -1211,7 +1211,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/voice-memos@file:./screens/voice-memos/":
+"@screens/voice-memos-new@file:./screens/voice-memos-new/":
+  version "1.0.0"
+
+"@screens/voice-memos@file:./screens/voice-memos":
   version "1.0.0"
 
 "@screens/waiting-list-message@file:./screens/waiting-list-message":

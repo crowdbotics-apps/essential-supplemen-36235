@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-waiting-list](screens/waiting-list)
 - [screen-waiting-list-message](screens/waiting-list-message)
 - [screen-voice-memos](screens/voice-memos)
+- [screen-voice-memos-new](screens/voice-memos-new)
 
 # Getting started: Frontend
 
