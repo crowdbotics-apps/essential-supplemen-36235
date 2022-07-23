@@ -1233,7 +1233,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/search-listing@file:./screens/search-listing/":
+"@screens/review-list@file:./screens/review-list/":
+  version "1.0.0"
+
+"@screens/search-listing@file:./screens/search-listing":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":

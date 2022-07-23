@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-shipping-address](screens/shipping-address)
 - [screen-settings](screens/settings)
 - [screen-search-listing](screens/search-listing)
+- [screen-review-list](screens/review-list)
 
 # Getting started: Frontend
 
