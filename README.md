@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-video-listing](screens/video-listing)
 - [screen-social-profile](screens/social-profile)
 - [react-native-social-login](modules/social-login)
+- [screen-social-followers](screens/social-followers)
 
 # Getting started: Frontend
 
